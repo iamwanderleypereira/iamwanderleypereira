@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Wanderley Pereira
-- 👀 I’m interested in web development, marketing and all around technologies.
-- 🌱 I’m currently learning HTML5, CSS3, Javascript, PHP7, Wordpress, Ionic.
+- 👀 I’m interested in web development and all around technologies.
+- 🌱 I’m currently learning HTML5, CSS3, Javascript, PHP7, Wordpress, Laravel, Node js, API.
 - 📫 How to reach me vaz_pereira15@hotmail.com
 
 <!---
