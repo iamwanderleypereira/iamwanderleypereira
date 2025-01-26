@@ -5,9 +5,9 @@
 - I worked on turnkey projects (Institutional Websites/Online Store), using the CMS ecosystem and providing support to customers.
 - Throughout my career, I have proactively sought experience in other areas, such as Front-End and Back-End, allowing me to expand my knowledge and be better prepared for new challenges.
 - Driven by a passion for problem-solving and continuous improvement, I am dedicated to delivering high-quality work and thriving in collaborative team environments.
---
+
 - My cheerful, happy and enthusiastic demeanor perfectly complements my passion for teamwork.
---
+
 - I feel fulfilled to be working in this area and all my study, effort and dedication is bearing fruit.
 
 <div style="display: inline_block"><br>
